@@ -1,0 +1,3 @@
+/home/kali/proggraming/build/CMakeFiles/main.dir
+/home/kali/proggraming/build/CMakeFiles/edit_cache.dir
+/home/kali/proggraming/build/CMakeFiles/rebuild_cache.dir

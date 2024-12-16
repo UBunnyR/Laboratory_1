@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kali/proggraming/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/kali/proggraming/main.cpp",
+  "file": "/home/kali/proggraming/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
